@@ -54,11 +54,10 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(0deg, #33CCFF, #0030FF); }
-
+  color: #FFF;
+  text-align: center; 
+background-image: linear-gradient(45deg, #111322, #8663F0);;}
+/*  */
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 2rem 6rem; } }
