@@ -350,9 +350,9 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding-top: 150px;
+  padding-top: 125px;
   padding-right: 800px;
-  padding-bottom: 150px;
+  padding-bottom: 125px;
   -webkit-align-content: stretch;
   -ms-flex-line-pack: stretch;
   align-content: stretch;
@@ -802,7 +802,7 @@ a {
 
 .paragraph-4 {
   margin-left: 7px;
-  padding-top: 20px;
+  padding-top: 40px;
   padding-right: 0px;
   padding-left: 0px;
   font-family: Nunito, sans-serif;
@@ -890,12 +890,12 @@ a {
     min-width: 300px;
   }
   .hero-overlay {
-    padding-top: 150px;
+    padding-top: 100px;
     padding-right: 250px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.65)), to(rgba(0, 0, 0, 0.65))), url('../images/smartmockups_kbim1xes.png');
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../images/smartmockups_kbim1xes.png');
-    background-position: 0px 0px, 40% 0%;
+    background-position: 0px 0px, 20% 0%;
   }
   .centered-container {
     padding-right: 60px;
@@ -1022,9 +1022,9 @@ a {
     order: -1;
   }
   .hero-overlay {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-right: 0px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.65)), to(rgba(0, 0, 0, 0.65))), url('../images/smartmockups_kbim1xes.png');
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../images/smartmockups_kbim1xes.png');
     background-position: 0px 0px, 25% 0%;
@@ -1201,8 +1201,8 @@ a {
     background-attachment: fixed;
   }
   .hero-overlay {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
   .centered-container {
     padding-right: 20px;
