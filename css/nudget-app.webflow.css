@@ -350,15 +350,16 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding-top: 200px;
+  padding-top: 150px;
   padding-right: 800px;
-  padding-bottom: 200px;
+  padding-bottom: 150px;
   -webkit-align-content: stretch;
   -ms-flex-line-pack: stretch;
   align-content: stretch;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.65)), to(rgba(0, 0, 0, 0.65))), url('../images/smartmockups_kbim1xes.png');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)), url('../images/smartmockups_kbim1xes.png');
   background-position: 0px 0px, 10% 65%;
+  background-size: auto, cover;
   background-repeat: repeat, no-repeat;
   color: #fff;
   text-align: left;
@@ -800,9 +801,10 @@ a {
 }
 
 .paragraph-4 {
+  margin-left: 7px;
   padding-top: 20px;
-  padding-right: 25px;
-  padding-left: 25px;
+  padding-right: 0px;
+  padding-left: 0px;
   font-family: Nunito, sans-serif;
   color: hsla(0, 0%, 100%, 0.8);
   font-size: 22px;
@@ -938,7 +940,7 @@ a {
   }
   .paragraph-4 {
     padding-right: 0px;
-    padding-left: 10px;
+    padding-left: 0px;
     font-size: 20px;
   }
 }
@@ -1107,7 +1109,7 @@ a {
     flex-direction: column;
   }
   .paragraph-4 {
-    padding-left: 13px;
+    padding-left: 0px;
   }
 }
 
@@ -1256,7 +1258,7 @@ a {
   }
   .paragraph-4 {
     padding-right: 0px;
-    padding-left: 7px;
+    padding-left: 0px;
     font-size: 13px;
   }
   .centered-container-copy {
