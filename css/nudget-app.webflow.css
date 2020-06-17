@@ -132,7 +132,7 @@ a {
   -ms-flex: 1;
   flex: 1;
   border-style: solid;
-  border-width: 3px;
+  border-width: 2px;
   border-color: #8662f0;
   border-radius: 10px;
   background-color: #fff;
@@ -1205,8 +1205,8 @@ a {
     padding-bottom: 40px;
   }
   .centered-container {
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
     text-align: left;
   }
   .heading {
@@ -1259,7 +1259,7 @@ a {
   .paragraph-4 {
     padding-right: 0px;
     padding-left: 0px;
-    font-size: 13px;
+    font-size: 18px;
   }
   .centered-container-copy {
     text-align: left;
