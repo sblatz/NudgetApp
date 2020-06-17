@@ -350,9 +350,9 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding-top: 250px;
+  padding-top: 200px;
   padding-right: 800px;
-  padding-bottom: 250px;
+  padding-bottom: 200px;
   -webkit-align-content: stretch;
   -ms-flex-line-pack: stretch;
   align-content: stretch;
