@@ -308,7 +308,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  max-width: 900px;
+  max-width: 1100px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -933,7 +933,7 @@ a {
 }
 
 .container {
-  max-width: 65%;
+  max-width: 1100px;
 }
 
 .feature-section-gray {
