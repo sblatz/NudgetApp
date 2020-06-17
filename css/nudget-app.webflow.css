@@ -422,6 +422,7 @@ a {
 .feature-section {
   padding-top: 50px;
   padding-bottom: 50px;
+  border-bottom: 1px solid #d9d9d9;
 }
 
 .feature-image-mask {
@@ -484,6 +485,7 @@ a {
 .cards-section {
   padding-top: 100px;
   padding-bottom: 100px;
+  border-bottom: 1px solid #d9d9d9;
   background-color: #fff;
 }
 
@@ -608,6 +610,7 @@ a {
 .call-to-action {
   padding-top: 80px;
   padding-bottom: 80px;
+  border-bottom: 1px solid #d9d9d9;
   background-color: #05f3b5;
   font-family: Nunito, sans-serif;
 }
@@ -885,7 +888,7 @@ a {
   padding-bottom: 60px;
   border-style: solid;
   border-width: 1px;
-  border-color: hsla(0, 0%, 97%, 0);
+  border-color: #d9d9d9;
   background-color: #f7f7f7;
 }
 
@@ -939,6 +942,7 @@ a {
 .feature-section-gray {
   padding-top: 50px;
   padding-bottom: 50px;
+  border-bottom: 1px solid #d9d9d9;
   background-color: #f7f7f7;
 }
 
