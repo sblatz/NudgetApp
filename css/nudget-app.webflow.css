@@ -483,7 +483,7 @@ a {
 .cards-section {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-color: #f3f1f6;
+  background-color: #fff;
 }
 
 .cards-grid-container {
@@ -883,8 +883,8 @@ a {
   padding-bottom: 60px;
   border-style: solid;
   border-width: 1px;
-  border-color: rgba(0, 0, 0, 0.21);
-  background-color: #fbfbfb;
+  border-color: hsla(0, 0%, 97%, 0);
+  background-color: #f7f7f7;
 }
 
 .flex-container-3 {
@@ -932,6 +932,12 @@ a {
 
 .container {
   max-width: 65%;
+}
+
+.feature-section-gray {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #f7f7f7;
 }
 
 @media screen and (max-width: 991px) {
@@ -1122,6 +1128,7 @@ a {
   }
   .feature-section {
     padding: 40px 20px;
+    background-color: transparent;
   }
   .feature-image-mask {
     min-width: 0px;
@@ -1152,6 +1159,7 @@ a {
   }
   .cards-section {
     padding: 40px 20px;
+    background-color: #fff;
   }
   .cards-grid-container {
     max-width: none;
@@ -1203,6 +1211,9 @@ a {
   .paragraph-4-copy {
     padding-left: 0px;
     font-size: 20px;
+  }
+  .feature-section-gray {
+    padding: 40px 20px;
   }
 }
 
