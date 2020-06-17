@@ -124,7 +124,7 @@ a {
   display: block;
   margin-top: 15px;
   margin-bottom: 15px;
-  padding: 20px 60px;
+  padding: 10px 50px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
@@ -308,7 +308,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  max-width: 65%;
+  max-width: 900px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -372,6 +372,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  max-width: 700px;
   padding-right: 0px;
   padding-left: 0px;
   -webkit-box-orient: vertical;
@@ -823,7 +824,7 @@ a {
   padding-left: 0px;
   font-family: Nunito, sans-serif;
   color: #000;
-  font-size: 56px;
+  font-size: 40px;
   line-height: 1.4;
   font-style: normal;
   font-weight: 300;
@@ -875,6 +876,7 @@ a {
 
 .image-5 {
   display: inline-block;
+  max-width: 350px;
   text-align: center;
 }
 
@@ -923,7 +925,7 @@ a {
   padding-left: 0px;
   font-family: Nunito, sans-serif;
   color: rgba(0, 0, 0, 0.65);
-  font-size: 28px;
+  font-size: 22px;
   line-height: 1.4;
   font-style: normal;
   font-weight: 300;
@@ -977,8 +979,8 @@ a {
     background-position: 0px 0px, 20% 0%;
   }
   .centered-container {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 0px;
+    padding-left: 0px;
   }
   .navbar-container {
     width: 100%;
@@ -1020,6 +1022,13 @@ a {
   .paragraph-4 {
     padding-right: 0px;
     padding-left: 0px;
+    font-size: 36px;
+  }
+  .paragraph-5 {
+    font-size: 22px;
+  }
+  .paragraph-6 {
+    font-size: 22px;
   }
   .flex-container-3 {
     max-width: 90%;
@@ -1027,6 +1036,7 @@ a {
   .paragraph-4-copy {
     padding-right: 0px;
     padding-left: 0px;
+    font-size: 20px;
   }
   .container {
     max-width: 90%;
@@ -1074,7 +1084,7 @@ a {
     text-align: center;
   }
   .button {
-    padding: 15px 30px;
+    padding: 10px 30px;
   }
   .subhead {
     font-size: 18px;
@@ -1248,6 +1258,9 @@ a {
     padding-right: 10px;
     padding-left: 10px;
   }
+  .button {
+    padding: 5px 20px;
+  }
   .subhead {
     font-size: 16px;
   }
@@ -1367,6 +1380,21 @@ a {
   }
   .centered-container-copy {
     text-align: left;
+  }
+  .heading-6 {
+    font-size: 26px;
+  }
+  .paragraph-5 {
+    font-size: 20px;
+  }
+  .heading-7 {
+    font-size: 26px;
+  }
+  .paragraph-6 {
+    font-size: 20px;
+  }
+  .image-5 {
+    max-width: 250px;
   }
   .section-4 {
     background-color: #fbfbfb;
