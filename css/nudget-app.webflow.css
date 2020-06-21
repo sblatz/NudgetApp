@@ -124,7 +124,7 @@ a {
   display: block;
   margin-top: 15px;
   margin-bottom: 15px;
-  padding: 10px 50px;
+  padding: 20px 50px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
@@ -1194,7 +1194,7 @@ a {
     text-align: center;
   }
   .button {
-    padding: 10px 30px;
+    padding: 15px 30px;
   }
   .subhead {
     font-size: 18px;
@@ -1279,7 +1279,6 @@ a {
   }
   .cards-section {
     padding: 40px 20px;
-    background-color: #fff;
   }
   .cards-grid-container {
     max-width: none;
@@ -1342,6 +1341,16 @@ a {
     min-width: 0px;
     margin-right: 0px;
   }
+  .div-block-10 {
+    text-align: center;
+  }
+  .div-block-11 {
+    text-align: center;
+  }
+  .div-block-12 {
+    text-align: center;
+    text-decoration: none;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -1376,7 +1385,7 @@ a {
     padding-left: 10px;
   }
   .button {
-    padding: 5px 20px;
+    padding: 10px 20px;
   }
   .subhead {
     font-size: 16px;
