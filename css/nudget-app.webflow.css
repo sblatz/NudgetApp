@@ -309,8 +309,7 @@ a {
   display: -ms-flexbox;
   display: flex;
   max-width: 1100px;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding: 0px 30px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -959,6 +958,8 @@ a {
 
 .container {
   max-width: 1100px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 .feature-section-gray {
@@ -996,7 +997,7 @@ a {
   height: 100%;
   max-height: 800px;
   min-width: auto;
-  margin-left: 45px;
+  margin-left: 0px;
 }
 
 .feature-image-mask-video {
@@ -1010,6 +1011,7 @@ a {
 .pausebutton {
   position: relative;
   top: -15px;
+  right: 20px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1097,8 +1099,8 @@ a {
   display: -ms-flexbox;
   display: flex;
   max-width: 1100px;
-  padding-right: 40px;
-  padding-left: 40px;
+  padding-right: 30px;
+  padding-left: 30px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1277,7 +1279,7 @@ a {
     flex: 0 auto;
   }
   .html-embed {
-    width: 85%;
+    width: 360px;
     min-width: 0px;
   }
   .feature-image-mask-video {
@@ -1496,6 +1498,9 @@ a {
   .feature-section-gray {
     padding: 40px 20px;
   }
+  .html-embed {
+    width: 425px;
+  }
   .feature-image-mask-video {
     min-width: 0px;
     margin-right: 0px;
@@ -1509,6 +1514,9 @@ a {
   .div-block-12 {
     text-align: center;
     text-decoration: none;
+  }
+  .pausebutton {
+    right: 0px;
   }
   .flex-container-4 {
     -webkit-box-orient: vertical;
@@ -1725,8 +1733,12 @@ a {
     flex-wrap: wrap;
   }
   .html-embed {
+    width: 250px;
     margin-right: auto;
     margin-left: auto;
+  }
+  .pausebutton {
+    font-size: 14px;
   }
   .html-embed-spend {
     margin-right: auto;
