@@ -494,7 +494,7 @@ a {
 }
 
 .cards-section {
-  padding: 100px 20px;
+  padding: 75px 20px;
   border-bottom: 1px solid #d9d9d9;
   background-color: #f7f7f7;
 }
@@ -539,6 +539,7 @@ a {
 }
 
 .heading-2 {
+  margin-top: 0px;
   margin-bottom: 40px;
   font-family: Nunito, sans-serif;
   text-align: center;
@@ -1123,6 +1124,10 @@ a {
   font-family: Nunito, sans-serif;
 }
 
+.bold-text-2 {
+  font-weight: 700;
+}
+
 @media screen and (max-width: 991px) {
   .nav-link {
     color: #fff;
@@ -1279,7 +1284,7 @@ a {
     flex: 0 auto;
   }
   .html-embed {
-    width: 360px;
+    width: 363px;
     min-width: 0px;
   }
   .feature-image-mask-video {
