@@ -608,7 +608,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  padding: 20px 10px;
+  padding: 20px 10px 20px 15px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -1745,6 +1745,10 @@ a {
   .text-block {
     font-size: 12px;
   }
+  .text-block-2 {
+    padding-right: 25px;
+    padding-left: 25px;
+  }
   .call-to-action {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -1794,6 +1798,9 @@ a {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    -webkit-align-content: stretch;
+    -ms-flex-line-pack: stretch;
+    align-content: stretch;
   }
   .html-embed {
     max-width: 100%;
