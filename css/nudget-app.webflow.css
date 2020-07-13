@@ -1708,6 +1708,9 @@ a {
   .cards-section-quotes {
     padding: 40px 20px;
   }
+  .heading-3-quotes {
+    font-size: 16px;
+  }
   .cards-grid-container-quotes {
     max-width: none;
     -ms-grid-row-align: stretch;
@@ -1933,7 +1936,7 @@ a {
     min-width: 0px;
   }
   .heading-3-quotes {
-    font-size: 22px;
+    font-size: 18px;
   }
   .cards-grid-container-quotes {
     margin-right: 0px;
