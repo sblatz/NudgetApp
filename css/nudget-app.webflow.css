@@ -1251,6 +1251,15 @@ a {
   text-decoration: none;
 }
 
+.paragraph-2-copy {
+  font-style: italic;
+  text-align: center;
+}
+
+.pagraph-7 {
+  text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   .nav-link {
     color: #fff;
@@ -1846,7 +1855,7 @@ a {
   }
   .heading-2 {
     margin-bottom: 20px;
-    font-size: 24px;
+    font-size: 28px;
     text-align: center;
   }
   .paragraph {
@@ -1863,7 +1872,7 @@ a {
     padding-bottom: 20px;
   }
   .heading-copy {
-    font-size: 26px;
+    font-size: 30px;
   }
   .call-to-action-container {
     padding-right: 10px;
