@@ -631,7 +631,7 @@ a {
 .call-to-action {
   padding: 20px;
   border-bottom: 1px solid #d9d9d9;
-  background-color: #00e5ad;
+  background-color: #06f3b6;
   font-family: Nunito, sans-serif;
 }
 
@@ -2073,26 +2073,6 @@ a {
     -ms-grid-row-align: start;
     align-self: start;
   }
-  #w-node-7a12d560a162-74787b0d {
-    -ms-grid-row: span 1;
-    grid-row-start: span 1;
-    -ms-grid-row-span: 1;
-    grid-row-end: span 1;
-    -ms-grid-column: span 1;
-    grid-column-start: span 1;
-    -ms-grid-column-span: 1;
-    grid-column-end: span 1;
-  }
-  #w-node-7a12d560a164-74787b0d {
-    -ms-grid-row: span 1;
-    grid-row-start: span 1;
-    -ms-grid-row-span: 1;
-    grid-row-end: span 1;
-    -ms-grid-column: span 1;
-    grid-column-start: span 1;
-    -ms-grid-column-span: 1;
-    grid-column-end: span 1;
-  }
   #w-node-7a12d560a167-74787b0d {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
@@ -2104,6 +2084,28 @@ a {
     grid-column-end: span 1;
   }
   #w-node-7a12d560a169-74787b0d {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+    -ms-grid-row-align: start;
+    align-self: start;
+  }
+  #w-node-3f0e54f48fd0-74787b0d {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+  #w-node-3f0e54f48fd2-74787b0d {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
@@ -2137,7 +2139,7 @@ a {
     -ms-grid-row-align: start;
     align-self: start;
   }
-  #w-node-3f0e54f48fd0-74787b0d {
+  #w-node-7a12d560a162-74787b0d {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
@@ -2147,7 +2149,7 @@ a {
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
   }
-  #w-node-3f0e54f48fd2-74787b0d {
+  #w-node-7a12d560a164-74787b0d {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
@@ -2156,8 +2158,6 @@ a {
     grid-column-start: span 1;
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
-    -ms-grid-row-align: start;
-    align-self: start;
   }
 }
 
